@@ -58,7 +58,7 @@ export default function AdminDashboard() {
   const fetchRecentJobs = async () => {
     // This is a placeholder. In a real app, you'd fetch this data from your backend
     setRecentJobs([
-      { id: 1, patient: 'John Doe', action: 'Registration', date: '2024-10-21' },
+      { id: 1, patient: 'John Dove', action: 'Registration', date: '2024-10-21' },
       { id: 2, patient: 'Jane Smith', action: 'Update', date: '2024-10-20' },
     ])
   }
